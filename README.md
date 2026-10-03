@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Carlos Garcia - Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111a,50:112a38,100:2c5364&height=250&section=header&text=Carlos%20Garcia&fontSize=66&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Developer&descSize=24&descAlignY=58&descColor=8fd3ff" width="100%" alt="Carlos Garcia - Software Developer" />
 
 <a href="https://github.com/carlosgarcia-tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2C9CFF&center=true&vCenter=true&width=760&height=40&lines=Backend+Developer+%7C+Node.js+%26+TypeScript;Java+%2F+Spring+Boot+%7C+REST+API+Design;Onion+Architecture+%7C+Testing+%7C+Clean+Code;Blue%2FGreen+Deployments+%7C+Ansible+%7C+Docker;Construyendo+software+de+punta+a+punta" alt="Typing SVG" />
@@ -27,12 +27,14 @@
 
 <br/>
 
-<img src="assets/sec-sobre-mi.svg" width="100%" alt="Sobre mí" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=Sobre+m%C3%AD&repeat=false&center=false&vCenter=true" alt="Sobre mí" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
 <div align="center">
-  <img src="assets/terminal.svg" width="78%" alt="Terminal animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1400&color=8FD3FF&width=720&height=190&lines=%24+whoami;carlos.garcia+%C2%B7+backend+developer+%C2%B7+oaxaca%2C+mx;%24+cat+stack.txt;node+%C2%B7+typescript+%C2%B7+java+%C2%B7+spring+boot+%C2%B7+postgres;%24+.%2Fdeploy+--strategy+blue-green;health+check+ok+%E2%86%92+switching+traffic+%E2%86%92+done&multiline=true&repeat=true&center=false&vCenter=true" alt="Terminal animada" />
 </div>
 
 <br/>
@@ -46,12 +48,21 @@ Fuera del código, tengo experiencia de **liderazgo técnico** como Scrum Master
 <br/>
 
 <div align="center">
-  <img src="assets/numeros.svg" width="100%" alt="Números clave" />
+
+<img src="https://img.shields.io/badge/3-años%20de%20experiencia-0b1620?style=for-the-badge&labelColor=2C9CFF&labelWidth=0" alt="3 años de experiencia" />
+<img src="https://img.shields.io/badge/1%2C010%2B-pruebas%20automatizadas-0b1620?style=for-the-badge&labelColor=2C9CFF&labelWidth=0" alt="1,010+ pruebas automatizadas" />
+<img src="https://img.shields.io/badge/80%25-cobertura%20de%20código-0b1620?style=for-the-badge&labelColor=2C9CFF&labelWidth=0" alt="80% cobertura de código" />
+<br/>
+<img src="https://img.shields.io/badge/50%2B-endpoints%20REST-0b1620?style=for-the-badge&labelColor=2C9CFF&labelWidth=0" alt="50+ endpoints REST" />
+<img src="https://img.shields.io/badge/%3C1%20min-rollback%20automático-0b1620?style=for-the-badge&labelColor=2C9CFF&labelWidth=0" alt="<1 min rollback automático" />
+
 </div>
 
 <br/>
 
-<img src="assets/sec-ahora.svg" width="100%" alt="En lo que ando" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=En+lo+que+ando&repeat=false&center=false&vCenter=true" alt="En lo que ando" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -82,7 +93,9 @@ Si quieres ver código, mis repositorios fijados arriba son el mejor punto de pa
 
 <br/>
 
-<img src="assets/sec-stack.svg" width="100%" alt="Stack tecnológico" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=Stack+tecnol%C3%B3gico&repeat=false&center=false&vCenter=true" alt="Stack tecnológico" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -133,7 +146,9 @@ Si quieres ver código, mis repositorios fijados arriba son el mejor punto de pa
 
 <br/>
 
-<img src="assets/sec-especialidades.svg" width="100%" alt="Especialidades" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=Especialidades&repeat=false&center=false&vCenter=true" alt="Especialidades" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -218,7 +233,9 @@ Si quieres ver código, mis repositorios fijados arriba son el mejor punto de pa
 
 <br/>
 
-<img src="assets/sec-ingenieria.svg" width="100%" alt="Ingeniería en acción" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=Ingenier%C3%ADa+en+acci%C3%B3n&repeat=false&center=false&vCenter=true" alt="Ingeniería en acción" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -288,17 +305,17 @@ stateDiagram-v2
     [*] --> Cerrado
     Cerrado --> Abierto: Demasiados fallos
     Abierto --> SemiAbierto: Pasa el tiempo de espera
-    SemiAbierto --> Cerrado: Peticiones de prueba exitosas
+    SemiAbierto --> Cerrado: Pruebas exitosas
     SemiAbierto --> Abierto: Falla una prueba
-    Abierto: Abierto (se usa el fallback)
-    Cerrado: Cerrado (tráfico normal)
 ```
 
 </details>
 
 <br/>
 
-<img src="assets/sec-como-trabajo.svg" width="100%" alt="Cómo trabajo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=C%C3%B3mo+trabajo&repeat=false&center=false&vCenter=true" alt="Cómo trabajo" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -313,7 +330,9 @@ stateDiagram-v2
 
 <br/>
 
-<img src="assets/sec-stats.svg" width="100%" alt="Estadísticas de GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=700&height=45&lines=Estad%C3%ADsticas+de+GitHub&repeat=false&center=false&vCenter=true" alt="Estadísticas de GitHub" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -338,7 +357,9 @@ stateDiagram-v2
 
 <br/>
 
-<img src="assets/sec-trayectoria.svg" width="100%" alt="Trayectoria" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=Trayectoria&repeat=false&center=false&vCenter=true" alt="Trayectoria" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -383,7 +404,9 @@ Esa etapa me dio criterio operativo, comunicación clara y el hábito de resolve
 
 <br/>
 
-<img src="assets/sec-idiomas.svg" width="100%" alt="Idiomas y objetivos" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=680&height=45&lines=Idiomas+y+objetivos&repeat=false&center=false&vCenter=true" alt="Idiomas y objetivos" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -414,7 +437,9 @@ Esa etapa me dio criterio operativo, comunicación clara y el hábito de resolve
 
 <br/>
 
-<img src="assets/sec-contacto.svg" width="100%" alt="Contacto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=60000&color=2C9CFF&width=620&height=45&lines=Contacto&repeat=false&center=false&vCenter=true" alt="Contacto" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C9CFF,50:2c5364,100:0b1620&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -430,10 +455,8 @@ Esa etapa me dio criterio operativo, comunicación clara y el hábito de resolve
 
 <br/><br/>
 
-<img src="assets/cat-walk.svg" width="100%" alt="Gato caminando" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=8FD3FF&center=true&vCenter=true&width=760&height=40&lines=Primero+hazlo+funcionar%2C+luego+hazlo+testeable%2C+despu%C3%A9s+hazlo+reversible." alt="Frase final" />
 
-<br/>
-
-<img src="assets/footer.svg" width="100%" alt="Pie de perfil" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:112a38,100:07111a&height=140&section=footer" width="100%" alt="Pie de perfil" />
 
 </div>
