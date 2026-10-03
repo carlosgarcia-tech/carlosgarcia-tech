@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="GitHub stats">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0b1620"/><stop offset="1" stop-color="#16303d"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#8fd3ff" stop-opacity="0.2"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1000" height="56" rx="10"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1000" height="56" fill="url(#g)"/>
+<rect width="6" height="56" fill="#2C9CFF"><animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="-220" width="220" height="56" fill="url(#sh)"><animate attributeName="x" values="-220;1000" dur="6s" repeatCount="indefinite"/></rect>
+<text x="30" y="37" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="1" fill="#ffffff">GitHub stats</text>
+<line x1="720" y1="28" x2="920" y2="28" stroke="#2c5364" stroke-width="2" stroke-dasharray="4 6"/>
+<circle r="4" cy="28" fill="#2C9CFF"><animate attributeName="cx" values="720;920;720" dur="4s" repeatCount="indefinite"/></circle>
+<text x="968" y="35" text-anchor="end" font-family="Consolas,Menlo,'Courier New',monospace" font-size="16" fill="#2C9CFF" opacity="0.85">05</text>
+</g></svg>
