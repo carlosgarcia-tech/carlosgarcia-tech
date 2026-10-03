@@ -171,7 +171,8 @@ flowchart TB
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=carlosgarcia-tech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+<a href="https://github.com/carlosgarcia-tech?tab=followers"><img src="https://img.shields.io/github/followers/carlosgarcia-tech?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0b1620&color=2C9CFF" alt="GitHub followers" /></a>
+<a href="https://github.com/carlosgarcia-tech?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-2C9CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1620" alt="Repositories" /></a>
 
 </div>
 
