@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/carlos-garcia-gg"><img src="https://img.shields.io/badge/LinkedIn-carlos--garcia--gg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://carlosgarcia-tech.github.io"><img src="https://img.shields.io/badge/Portfolio-carlosgarcia--tech.github.io-16303d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:cgarciagarcia729@gmail.com"><img src="https://img.shields.io/badge/Email-cgarciagarcia729%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/carlos-garcia-gg"><img src="assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://carlosgarcia-tech.github.io"><img src="assets/badge-portfolio.svg" alt="Portfolio" /></a>
+<a href="mailto:cgarciagarcia729@gmail.com"><img src="assets/badge-email.svg" alt="Email" /></a>
 
 <br/>
 
@@ -171,8 +171,8 @@ flowchart TB
 
 <br/>
 
-<a href="https://github.com/carlosgarcia-tech?tab=followers"><img src="https://img.shields.io/github/followers/carlosgarcia-tech?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0b1620&color=2C9CFF" alt="GitHub followers" /></a>
-<a href="https://github.com/carlosgarcia-tech?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-2C9CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1620" alt="Repositories" /></a>
+<a href="https://github.com/carlosgarcia-tech?tab=followers"><img src="assets/badge-followers.svg" alt="GitHub followers" /></a>
+<a href="https://github.com/carlosgarcia-tech?tab=repositories"><img src="assets/badge-repositories.svg" alt="Repositories" /></a>
 
 </div>
 
@@ -219,9 +219,9 @@ Have a project, an opening, or just want to talk backend and DevOps? Get in touc
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/carlos-garcia-gg"><img src="https://img.shields.io/badge/LinkedIn-carlos--garcia--gg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://carlosgarcia-tech.github.io"><img src="https://img.shields.io/badge/Portfolio-carlosgarcia--tech.github.io-16303d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:cgarciagarcia729@gmail.com"><img src="https://img.shields.io/badge/Email-cgarciagarcia729%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/carlos-garcia-gg"><img src="assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://carlosgarcia-tech.github.io"><img src="assets/badge-portfolio.svg" alt="Portfolio" /></a>
+<a href="mailto:cgarciagarcia729@gmail.com"><img src="assets/badge-email.svg" alt="Email" /></a>
 
 <br/><br/>
 
